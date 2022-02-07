@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\RefOutArrayString\bin\Debug\netcoreapp3.1\RefOutArrayString.exe
+C:\Users\memme\Desktop\P225\Task\RefOutArrayString\bin\Debug\netcoreapp3.1\RefOutArrayString.deps.json
+C:\Users\memme\Desktop\P225\Task\RefOutArrayString\bin\Debug\netcoreapp3.1\RefOutArrayString.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\RefOutArrayString\bin\Debug\netcoreapp3.1\RefOutArrayString.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\RefOutArrayString\bin\Debug\netcoreapp3.1\RefOutArrayString.dll
+C:\Users\memme\Desktop\P225\Task\RefOutArrayString\bin\Debug\netcoreapp3.1\RefOutArrayString.pdb
+C:\Users\memme\Desktop\P225\Task\RefOutArrayString\obj\Debug\netcoreapp3.1\RefOutArrayString.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\RefOutArrayString\obj\Debug\netcoreapp3.1\RefOutArrayString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\RefOutArrayString\obj\Debug\netcoreapp3.1\RefOutArrayString.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\RefOutArrayString\obj\Debug\netcoreapp3.1\RefOutArrayString.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\RefOutArrayString\obj\Debug\netcoreapp3.1\RefOutArrayString.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\RefOutArrayString\obj\Debug\netcoreapp3.1\RefOutArrayString.dll
+C:\Users\memme\Desktop\P225\Task\RefOutArrayString\obj\Debug\netcoreapp3.1\RefOutArrayString.pdb
+C:\Users\memme\Desktop\P225\Task\RefOutArrayString\obj\Debug\netcoreapp3.1\RefOutArrayString.genruntimeconfig.cache
